@@ -1,5 +1,5 @@
 # Mastering SQL Language Skills.
-## Explore these twenty questions to boost your SQL skills! Each question is like a stepping stone, guiding you through the world of databases. By working through them, you'll gain confidence and fluency in SQL. Whether you're just starting out or looking to refine your expertise, these exercises provide a fun and accessible way to learn. So, grab your keyboard and let's dive in!
+### Explore these twenty questions to boost your SQL skills! Each question is like a stepping stone, guiding you through the world of databases. By working through them, you'll gain confidence and fluency in SQL. Whether you're just starting out or looking to refine your expertise, these exercises provide a fun and accessible way to learn. So, grab your keyboard and let's dive in!
 
 1. What is the distribution of patient ages within the hospital's database?
    - **Approach**: Use the SQL `SELECT` statement with the `COUNT` and `GROUP BY` functions to count the number of patients in different age groups.
@@ -60,5 +60,3 @@
 
 20. How should resources be allocated to maximize patient outcomes and operational efficiency?
     - **Approach**: Use historical data analysis and predictive modeling to identify patterns and optimize resource allocation strategies accordingly.
-
-Leverage SQL language, leveraging functions, clauses, and techniques to retrieve and analyze data effectively.
