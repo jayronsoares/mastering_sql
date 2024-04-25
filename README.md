@@ -1,7 +1,8 @@
 # Mastering SQL Language Skills.
 ### Explore these questions, by industry, to boost your SQL skills! 
 ### By working through them, you'll gain confidence and fluency in SQL. 
-### Whether you're just starting out or looking to refine your expertise, these exercises provide a fun and accessible way to learn. So, grab your keyboard and let's dive in!
+### Whether you're just starting out or looking to refine your expertise, these exercises provide a fun and accessible way to learn. 
+## So, grab your keyboard and let's dive in!
 
 These industries represent just a few examples of how organizations across various sectors are harnessing the power of data to drive decision-making, gain competitive advantages, and innovate in their respective fields.
 
